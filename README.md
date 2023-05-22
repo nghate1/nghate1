@@ -1,4 +1,4 @@
-Hi there 👋
+Hello
 
 - 🌱 Computer Science student at the University of Maryland
 - 🧑‍🏫 Teaching Assistant for CMSC132: Object Oriented Programming

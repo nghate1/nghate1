@@ -1,9 +1,6 @@
-Hello
+Hey there! A bit about me,
 
-- 🌱 Computer Science student at the University of Maryland
-- 🧑‍🏫 Teaching Assistant for CMSC132: Object Oriented Programming
-- 🔑 Facilitator for CMSC398F: Introduction to Blockchain and Cryptocurrency, one of UMD's student initiated courses
-- 💻 Software Engineer Intern at Appian
-- 💻 Software Engineer Intern at Yext
+- 🐢 University of Maryland Alum
+- 🔧 Software Engineer at [Percepta](https://percepta.ai/), we're [hiring](https://jobs.ashbyhq.com/percepta) across many roles!
 
 ![](https://hit.yhype.me/github/profile?user_id=74610636)
